@@ -1,0 +1,10 @@
+/* assets/css/styles.css */
+body {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e2ecff 100%);
+}
+.card {
+  border-radius: 1.25rem;
+}
+#quoteText {
+  line-height: 1.6;
+}
